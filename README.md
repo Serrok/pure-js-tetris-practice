@@ -1,0 +1,2 @@
+# pure-js-tetris-practice
+When I was searching for my next job, I found an interesting requirement on the job description of Web Developer in Riot Games. It said that they are looking for someone good on web techniques, and could be able to made a Tetris with pure Java Script. I know I'm not totally qualified for the job, but I taken the challenge from that as a little practice : )
